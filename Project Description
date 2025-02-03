@@ -1,0 +1,8 @@
+Kimia Farma adalah perusahaan industri farmasi pertama di Indonesia yang didirikan oleh Pemerintah Hindia Belanda tahun 1817. Nama perusahaan ini pada awalnya adalah NV Chemicalien Handle Rathkamp & Co. Berdasarkan kebijaksanaan nasionalisasi atas eks perusahaan Belanda di masa awal kemerdekaan, pada tahun 1958, Pemerintah Republik Indonesia melakukan peleburan sejumlah perusahaan farmasi menjadi PNF (Perusahaan Negara Farmasi) Bhinneka Kimia Farma. Kemudian pada tanggal 16 Agustus 1971, bentuk badan hukum PNF diubah menjadi Perseroan Terbatas, sehingga nama perusahaan berubah menjadi PT Kimia Farma (Persero).
+Project ini merupakan final project dari rangkaian Project Based Internship Kimia Farma Big Data Analytics dengan Rakamin Academy
+
+Challenge:
+Sebagai seorang Big Data Analytics Intern di Kimia Farma, tugas Anda akan mencakup serangkaian tantangan yang memerlukan pemahaman mendalam tentang data dan kemampuan analisis. Salah satu proyek utama Anda adalah mengevaluasi kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023.
+- Importing Dataset to BigQuery, Pada proyek ini anda ditugaskan untuk mengimpor dataset
+-  Buat tabel analisa, Pada proyek ini, anda juga diminta untuk membuat tabel analisa berdasarkan hasil aggregasi dari ke-empat tabel yang sudah diimport sebelumnya.
+-  Create Dashboard Performance Analytics Kimia Farma Business Year 2020-2023 Pada proyek ini, anda harus membuat sebuah dashboard analisis kinerja Kimia Farma tahun 2020-2023 di Google Looker Studio. Dashboard ini anda buat berdasarkan tabel analisa yang telah anda buat sebelumnya pada BigQuery, sehingga anda perlu menghubungkan table tersebut ke Google Looker Studio. 
